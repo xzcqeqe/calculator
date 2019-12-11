@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HHHHH</string>
+    <string-array name="option">
+        <item>KG</item>
+        <item>G</item>
+        <item>T</item>
+     </string-array>
+</resources>
